@@ -1,3 +1,11 @@
+Projeto utilizando react:
+
+Link do projeto publicado no Vercel: https://alex-calculadora-imc.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/5d253f28-195a-4bc0-9c1c-7c41fa022252)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
